@@ -1,0 +1,1 @@
+Si bien no estoy muy interiorizado y no conozco tanto acerca de los motores de plantilla, por lo que conozco me quedo con ejs debido a que me pareció el que tiene la sintaxis más simple y más similar a Javascript, por lo que no hay que aprender muchas funciones nuevas.
